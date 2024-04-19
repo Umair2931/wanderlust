@@ -32,7 +32,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
    cd backend
    ```
 
-3. **Install Required Dependencies**
+3. **Install Required Dependencies of all**
 
    ```bash
    npm i
